@@ -33,6 +33,9 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
+![](https://github.com/shivomPatel/CodePath-Prework/blob/master/Prework.gif)
+
+
 ## Notes
 
 Describe any challenges encountered while building the app.
